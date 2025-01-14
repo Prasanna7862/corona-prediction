@@ -1,6 +1,7 @@
 # Corona Prediction
 
-![Corona Prediction](corona_prediction.png)
+![image](https://github.com/user-attachments/assets/fa880030-c512-48a3-bc55-65dfa6fcef0d)
+
 
 ## Overview
 
